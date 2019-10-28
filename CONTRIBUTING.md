@@ -25,7 +25,7 @@ The integer helper was born to help me keep a library of useful extensions to in
 I want to be able to fix issues as quickly as possible so ive writen a few guidelines to follow
 
 1.  Check it doesn't already exist 
-    *as much as i appreciate you letting me know it can cause me extra confusion and time trying to reproduce fixed bugs you can check for existing bugs [here]([https://github.com/SamB1990/IntegerHelper/issues](https://github.com/SamB1990/IntegerHelper/issues))*
+    *as much as i appreciate you letting me know it can cause me extra confusion and time trying to reproduce fixed bugs you can check for existing bugs [here](https://github.com/SamB1990/IntegerHelper/issues)*
 2.  Make sure I know how to reproduce it. *As developers we all know how clients and non devlopers like to think we are mind readers (Don't be one of those people)* 
 3.  Try to be concise *The more precise detail the better but i am a tldr; kinda guy*
 4.  [Report](https://github.com/SamB1990/IntegerHelper/issues/new) that bug.
