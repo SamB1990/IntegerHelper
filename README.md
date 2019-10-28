@@ -4,11 +4,11 @@ The integer helper was born to help me keep a library of useful extensions to in
 
 # Contribute
 
-Come conribute would love to hear you ideas [Contribute](https://github.com/SamB1990/IntegerHelper/blob/master/Contributing.md)
+Come conribute would love to hear you ideas [Contribute](https://github.com/SamB1990/IntegerHelper/blob/master/CONTRIBUTING.md)
 
 # Issues
 
-neew [help](https://github.com/SamB1990/IntegerHelper/blob/master/Contributing.md#issues) reporting an issue
+neew [help](https://github.com/SamB1990/IntegerHelper/blob/master/CONTRIBUTING.md#issues) reporting an issue
 
 # License
 
