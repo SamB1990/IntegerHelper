@@ -3,7 +3,7 @@
 
 # License
 
-This work is licensed under a [MIT License](https://github.com/SamB1990/IntegerHelper/blob/master/license)
+This work is licensed under a [MIT License](https://github.com/SamB1990/IntegerHelper/blob/master/LICENSE)
 
 # Code of Conduct
 
