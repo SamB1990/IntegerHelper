@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29403.142
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegerHelper", "IntegerHelper.csproj", "{E25B3760-7EF9-4CE8-8397-65095BC4DB9C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F584351A-36CD-4FEC-9231-640750148AF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegerHelper.UnitTest", "..\tests\IntegerHelper.UnitTest.csproj", "{BCBF13C2-291D-442C-AD4B-F2B76C67A22B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{E25B3760-7EF9-4CE8-8397-65095BC4DB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E25B3760-7EF9-4CE8-8397-65095BC4DB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E25B3760-7EF9-4CE8-8397-65095BC4DB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBF13C2-291D-442C-AD4B-F2B76C67A22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBF13C2-291D-442C-AD4B-F2B76C67A22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBF13C2-291D-442C-AD4B-F2B76C67A22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBF13C2-291D-442C-AD4B-F2B76C67A22B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BCBF13C2-291D-442C-AD4B-F2B76C67A22B} = {F584351A-36CD-4FEC-9231-640750148AF4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A9EE0022-61AD-43E2-92D5-088E18ED5A94}
