@@ -1,0 +1,8 @@
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\EvenInterger\bin\Debug\netstandard2.0\IntergerHelper.deps.json
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\EvenInterger\bin\Debug\netstandard2.0\IntergerHelper.dll
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\EvenInterger\bin\Debug\netstandard2.0\IntergerHelper.pdb
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\EvenInterger\obj\Debug\netstandard2.0\IntergerHelper.csprojAssemblyReference.cache
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\EvenInterger\obj\Debug\netstandard2.0\IntergerHelper.AssemblyInfoInputs.cache
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\EvenInterger\obj\Debug\netstandard2.0\IntergerHelper.AssemblyInfo.cs
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\EvenInterger\obj\Debug\netstandard2.0\IntergerHelper.dll
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\EvenInterger\obj\Debug\netstandard2.0\IntergerHelper.pdb
