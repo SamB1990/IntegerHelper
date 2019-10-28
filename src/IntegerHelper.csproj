@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Sam Blundell</Authors>
+    <Company>Sam Blundell Software</Company>
+    <Product>Integer Helper</Product>
+    <Description>Useful library of integer extensions and methods.</Description>
+    <Copyright>Copyright (c) 2019 Sam Blundell</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <NeutralLanguage>en-GB</NeutralLanguage>
+    <RepositoryUrl>https://github.com/SamB1990/IntegerHelper</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+  </PropertyGroup>
+
+</Project>
