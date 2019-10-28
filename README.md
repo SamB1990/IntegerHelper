@@ -5,6 +5,7 @@ The integer helper was born to help me keep a library of useful extensions to in
 ## Current Functionality
 ### Parity
 parity methods to detemine odd and even integers and also to turn an integer into an odd or even integer.
+
 Methods include:
   - IsEven
   - ToEven
