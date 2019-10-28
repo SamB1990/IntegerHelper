@@ -2,6 +2,14 @@
 
 The integer helper was born to help me keep a library of useful extensions to integers. I am constantly writing methods across different projects that i again replicate when i move on to the next one so i thought i should create a library.
 
+## Current Functionality
+### Parity
+parity methods to detemine odd and even integers and also to turn an integer into an odd or even integer.
+Methods include:
+  -IsEven
+  -ToEven
+  -ToOdd
+  
 # Contribute
 
 Come conribute would love to hear you ideas [Contribute](https://github.com/SamB1990/IntegerHelper/blob/master/CONTRIBUTING.md)
