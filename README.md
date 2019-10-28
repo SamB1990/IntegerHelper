@@ -8,7 +8,7 @@ Come conribute would love to hear you ideas [Contribute](https://github.com/SamB
 
 # Issues
 
-neew [help](https://github.com/SamB1990/IntegerHelper/blob/master/CONTRIBUTING.md#issues) reporting an issue
+Got an issue here are my [guidelines](https://github.com/SamB1990/IntegerHelper/blob/master/CONTRIBUTING.md#issues) for reporting it.
 
 # License
 
