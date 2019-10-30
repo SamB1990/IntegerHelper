@@ -2030,7 +2030,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "IntegerHelper/1.0.0": {
+      "IntegerHelper/1.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -6802,7 +6802,7 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "IntegerHelper/1.0.0": {
+    "IntegerHelper/1.0.1": {
       "type": "project",
       "path": "../src/IntegerHelper.csproj",
       "msbuildProject": "../src/IntegerHelper.csproj"
@@ -6810,7 +6810,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "IntegerHelper >= 1.0.0",
+      "IntegerHelper >= 1.0.1",
       "MSTest.TestAdapter >= 1.4.0",
       "MSTest.TestFramework >= 1.4.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
