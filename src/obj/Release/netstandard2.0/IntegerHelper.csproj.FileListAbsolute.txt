@@ -1,0 +1,8 @@
+C:\Users\sam\source\repos\IntegerHelper\src\bin\Release\netstandard2.0\IntegerHelper.deps.json
+C:\Users\sam\source\repos\IntegerHelper\src\bin\Release\netstandard2.0\IntegerHelper.dll
+C:\Users\sam\source\repos\IntegerHelper\src\bin\Release\netstandard2.0\IntegerHelper.pdb
+C:\Users\sam\source\repos\IntegerHelper\src\obj\Release\netstandard2.0\IntegerHelper.csprojAssemblyReference.cache
+C:\Users\sam\source\repos\IntegerHelper\src\obj\Release\netstandard2.0\IntegerHelper.AssemblyInfoInputs.cache
+C:\Users\sam\source\repos\IntegerHelper\src\obj\Release\netstandard2.0\IntegerHelper.AssemblyInfo.cs
+C:\Users\sam\source\repos\IntegerHelper\src\obj\Release\netstandard2.0\IntegerHelper.dll
+C:\Users\sam\source\repos\IntegerHelper\src\obj\Release\netstandard2.0\IntegerHelper.pdb

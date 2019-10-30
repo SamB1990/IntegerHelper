@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\bin\\Debug",
+    "\\src\\bin\\Debug\\netstandard2.0",
+    "\\src\\bin\\Release",
+    "\\tests"
+  ],
+  "SelectedNode": "\\src\\IntegerHelper.sln",
+  "PreviewInSolutionExplorer": false
+}

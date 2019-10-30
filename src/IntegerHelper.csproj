@@ -12,6 +12,15 @@
     <NeutralLanguage>en-GB</NeutralLanguage>
     <RepositoryUrl>https://github.com/SamB1990/IntegerHelper</RepositoryUrl>
     <RepositoryType>github</RepositoryType>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageTags>Parity Extensions int toeven toodd iseven even odd isodd</PackageTags>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
